@@ -65,7 +65,7 @@ numpy==1.18.1
 onnx==1.6.0
 onnxconverter-common==1.6.0
 onnxruntime==1.1.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 paho-mqtt==1.5.0
 pandas==0.24.2
 pandocfilters==1.4.2
