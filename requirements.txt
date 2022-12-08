@@ -8,7 +8,7 @@ boto3==1.9.131
 botocore==1.12.131
 bovespa==0.1.0
 bovespaparser==0.6.5
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chainer==7.2.0
 chardet==3.0.4
